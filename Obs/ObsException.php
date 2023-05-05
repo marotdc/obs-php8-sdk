@@ -119,7 +119,8 @@ class ObsException extends \RuntimeException
     	return $this->hostId;
     }
 
-    public function __toString()
+    #[\ReturnTypeWillChange]
+public function __toString()
     {
         $message = get_class($this) . ': '
             . 'OBS Error Code: ' . $this->getExceptionCode() . ', '
