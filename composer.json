@@ -2,7 +2,7 @@
 	"name" : "bytepandax/obs-php8-sdk",
 	"description" : "OBS PHP8.1+ SDK",
 	"license":"Apache-2.0",
-	"version":"1.0.0",
+	"version":"1.0.2",
 	"require" : {
 		"php" : ">=7.4.0",
 		"guzzlehttp/guzzle" : "^6.3.0 || ^7.0",

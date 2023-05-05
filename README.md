@@ -3,7 +3,7 @@ Forked from https://github.com/huaweicloud/huaweicloud-sdk-php-obs
 
 obs/esdk-obs-php 3.22.6 对php8.1+不友好，一直有弃用警告。因为公司项目急用，所以只是在一些方法上增加了添加 #[\ReturnTypeWillChange]
 
-version 1.0.0 base on obs/esdk-obs-php 3.22.6 
+version 1.0.2 base on obs/esdk-obs-php 3.22.6 
 
 使用方法
 
