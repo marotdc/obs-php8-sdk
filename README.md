@@ -20,7 +20,7 @@ version 1.0.* base on obs/esdk-obs-php 3.22.6
 ## 使用方法
 
 ```shell
-composer require bytepandax/obs-php8-sdk
+composer require marotdc/obs-php8-sdk
 ```
 
 ```php
